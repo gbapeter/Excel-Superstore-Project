@@ -32,6 +32,7 @@ I created a table from which I created relevant pivot tables and pivot charts se
 Food and beverages and fashion accessories were the major products sold in Naypyitaw and there were more female customers (178) than male customers (150) there. Also, there were more members (169) than normal customers(159) there.
 House and lifestyle and electronic accessories were the major products sold in Yangon and there were more Male customers (179) than female customers (161) there. Also, there were more normal customers (173) than members (167) there.
 ### Customer Behavior Analysis
+![Image](https://github.com/user-attachments/assets/a593bfe2-9a54-48c0-b53c-5076b318b2a4?raw=true)
 - On average,  female customers bought cheaper products ($55.26 unit price) than male customers ($56.08) but bought in more quantities, which resulted in them  spending the most in purchases ($159,889) than men ($147,699).
 - The highest amount of sales was recorded on Tuesday ($52,029) followed by Sunday ($47,338), and the least sales were recorded on Monday ($33,380). This could be as a result of work and school schedules on Monday,  spendings during the weekend and people generally having more free time on Sunday.
 - The highest amount of sales was recorded in January ($82,441) followed by March ($69,285), and the least sales was recorded in April ($7,579). Notably, a significantly higher revenue was generated in the first quarter of the year. This could be as a result of a general trend in the retail market.
