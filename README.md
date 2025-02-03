@@ -38,6 +38,7 @@ House and lifestyle and electronic accessories were the major products sold in Y
 - The highest sales was recorded at 7PM amounting to $37,809 followed by 1PM ($33,070), and the least sales were recorded at 8PM ($21,876). This could be as a result of people shopping after work (a generally observed trend), during lunchtime and people avoiding shopping too close to the store's closing time respectively.
 
 ### Product Performance Analysis
+![Image](https://github.com/user-attachments/assets/ceb108ed-dd14-49fb-a8d9-839ef6c24197?raw=true)
 - Food and beverages was the top selling product line, having a total of $56,145 in sales. This could be because it is an essential product line. People often prioritize buying basic needs. Food and beverages were followed by sports and travel ($55,123), implying that people in the regions highly engage in recreation and vacationing. Health and beauty was the least selling product line, having a total of $49,194 in sales.
 - Fashion accessories had the highest average unit price ($57.15) closely followed by sports and travel ($56.99) while electronic accessories were the cheapest by unit price ($53.55). Product lines with higher unit prices generally had more sales than those with lower unit prices. This implies that higher unit prices did not reduce sales.
 Payment Method Analysis
