@@ -24,6 +24,8 @@ The dataset used for this project is a superstore sales data from 2019 downloade
 ## Analysis and Insights
 I created a table from which I created relevant pivot tables and pivot charts setting the foundation for subsequent analysis.
 ## Key Insights
+![Sales Performance Analysis](Sales Dashboard.png)
+
 ### Sales Perfomance Analysis
 - The city of Naypyitaw recorded the highest sales ($105,304) followed by Yangon ($101,143) and lastly Mandalay). Sales in Naypyitaw and Yango were driven mainly by female customers ($58,748 and $50,408 respectively) while those in Mandalay were slightly more driven by male customers ($50,733). Also, based on customer type, sales in all three cities were mainly driven by member customers despite Yango and Mandalay having more normal customers than members. This implies that members spent more money in the stores than normal customers.
 - Sports and travel and fashion accessories were the major products sold in Mandalay, there were more male customers (170) than female customers (162) there. Also, there were slightly more normal customers (167) than members (165) there.
