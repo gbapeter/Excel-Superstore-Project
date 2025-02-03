@@ -33,9 +33,9 @@ Food and beverages and fashion accessories were the major products sold in Naypy
 House and lifestyle and electronic accessories were the major products sold in Yangon and there were more Male customers (179) than female customers (161) there. Also, there were more normal customers (173) than members (167) there.
 ### Customer Behavior Analysis
 ![Image](https://github.com/user-attachments/assets/a593bfe2-9a54-48c0-b53c-5076b318b2a4?raw=true)
-- On average,  female customers bought cheaper products ($55.26 unit price) than male customers ($56.08) but bought in more quantities, which resulted in them  spending the most in purchases ($159,889) than men ($147,699).
+- On average,  female customers bought cheaper products ($55.26 unit price) than male customers ($56.08) but bought in more quantities, which resulted in them  spending more in purchases ($159,889) than men ($147,699).
 - The highest amount of sales was recorded on Tuesday ($52,029) followed by Sunday ($47,338), and the least sales were recorded on Monday ($33,380). This could be as a result of work and school schedules on Monday,  spendings during the weekend and people generally having more free time on Sunday.
-- The highest amount of sales was recorded in January ($82,441) followed by March ($69,285), and the least sales was recorded in April ($7,579). Notably, a significantly higher revenue was generated in the first quarter of the year. This could be as a result of a general trend in the retail market.
+- The highest amount of sales was recorded in January ($82,441) followed by March ($69,285), and the least sales was recorded in April ($7,579). The sales in January were likely driven by students resuming school and after holidays shopping. Notably, a significantly higher revenue was generated in the first quarter of the year. This could be as a result of a general trend in the retail market.
 - The highest sales was recorded at 7PM amounting to $37,809 followed by 1PM ($33,070), and the least sales were recorded at 8PM ($21,876). This could be as a result of people shopping after work (a generally observed trend), during lunchtime and people avoiding shopping too close to the store's closing time respectively.
 
 ### Product Performance Analysis
@@ -47,19 +47,3 @@ Cash was the most used payment method. This could be as a result of the ease of 
 ### Customer Satisfaction Analysis
 - Naypyitaw was the top rated city with an average rating of 7.07 while Mandalay was the least rated city having an average rating of 6.82. Also, Food and beverages was the top rated product line (7.11), followed by fashion accessories (7.03) while home and lifestyle was the least rated product line, having an average rating of 6.84. This implies that the average rating influenced sales, as product lines and cities with higher average ratings generally performed better than others with lower average ratings. This highlights the importance of having a good service to ensure a great customer experience.
 - Food and beverages was the optimal product line, having the highest rating and the highest sales. No direct relationship was observed between rating and total sales.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
