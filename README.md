@@ -50,7 +50,7 @@ Cash was the most used payment method. This could be as a result of the ease of 
 - Naypyitaw was the top rated city with an average rating of 7.07 while Mandalay was the least rated city having an average rating of 6.82. Also, Food and beverages was the top rated product line (7.11), followed by fashion accessories (7.03) while home and lifestyle was the least rated product line, having an average rating of 6.84. This implies that the average rating influenced sales, as product lines and cities with higher average ratings generally performed better than others with lower average ratings. This highlights the importance of having a good service to ensure a great customer experience.
 - Food and beverages was the optimal product line, having the highest rating and the highest sales. No direct relationship was observed between rating and total sales by product.
 ## Conclusion
-Analysing sales data lead to more informed decisions which is crucial for the continued growth and profitability of the store. Also, I learned new things working on this excel project.
+Analysing sales data can lead to more informed decisions which is crucial for the continued growth and profitability of the store. Also, I learned new things working on this excel project.
 
 
 
