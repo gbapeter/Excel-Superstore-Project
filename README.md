@@ -1,6 +1,6 @@
 # Superstore Sales Analysis
 ## Introduction
-As an aspiring data analyst, I worked on this project to put what I have learned in excel to test and showcase my acquired skills. I set out to uncover insights from a superstore's sales data across three divisions.
+Analysis of a U.S. superstore data to uncover sales trends, profitability, and recommend cost-cutting in underperforming product categories.
 ## Questions to Analyze
 1. What was the best performing city by sales?
 2. Which gender spent the most on purchases from the store?
